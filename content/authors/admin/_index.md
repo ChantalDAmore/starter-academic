@@ -6,7 +6,7 @@ title: Chantal D'Amore
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Researcher in Political and Social Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
