@@ -26,7 +26,7 @@ education:
   - course: Research Master (Msc) in Social Psychology
     institution: University of Groningen
     year: 2017-2019
-  - course: BSc in Artificial Intelligence
+  - course: BSc in Psychology
     institution: University of Groningen
     year: 2014-2017
 
